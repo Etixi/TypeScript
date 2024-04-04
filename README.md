@@ -16,7 +16,7 @@ TypeScript
 
 TypeScript est un langage de programmation fortement typé qui s'appuie sur JavaScript, vous donnant un meilleur outillage à n'importe quelle échelle.
 
-
+## Code Source
 
 🔗 [Chapter 1 - Introduction, Setup & Config](TYPESCRIPT/LESSON01)
 
@@ -6570,32 +6570,4 @@ TypeScript est un langage de programmation fortement typé qui s'appuie sur Java
 |            |—— typescript.svg
 |            |—— vite-env.d.ts
 |        |—— tsconfig.json
-```
-## Code Details
-### Tested Platform
-- software
-  ```
-  OS: Debian unstable (May 2021), Ubuntu LTS
-  Python: 3.8.5 (anaconda)
-  PyTorch: 1.7.1, 1.8.1
-  ```
-- hardware
-  ```
-  CPU: Intel Xeon 6226R
-  GPU: Nvidia RTX3090 (24GB)
-  ```
-### Hyper parameters
-```
-```
-## References
-- [paper-1]()
-- [paper-2]()
-- [code-1](https://github.com)
-- [code-2](https://github.com)
-  
-## License
-
-## Citing
-If you use xxx,please use the following BibTeX entry.
-```
 ```
