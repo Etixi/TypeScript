@@ -38,9 +38,9 @@ TypeScript est un langage de programmation fortement typé qui s'appuie sur Java
 
 🔗 [Chapter 10 - Vite Introduction (no source code)](TYPESCRIPT/LESSON10)
 
-🔗 Chapter 11 - Beginners Project / Challenges
+🔗 [Chapter 11 - Beginners Project / Challenges](TYPESCRIPT/LESSON11)
 
-🔗 Chapter 12 - React + Typescript Starter
+🔗 [Chapter 12 - React + Typescript Starter](TYPESCRIPT/LESSON12)
 
 🔗 Chapter 13 - React Hooks + Typescript
 
@@ -49,6 +49,8 @@ TypeScript est un langage de programmation fortement typé qui s'appuie sur Java
 🔗 Chapter 15 - React useContext + Typescript
 
 🔗 Chapter 16 - React + Typescript Project - Part 1
+
+🔗 Chapter 17 - React + Typescript Project - Part 2
 
 
 ## Directory Hierarchy
