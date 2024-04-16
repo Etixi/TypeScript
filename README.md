@@ -1,9 +1,9 @@
-TypeScript
+<u>TypeScript</u>
 ===
 
 <center>
 
-![Typescript](https://www.typescriptlang.org/images/branding/logo-grouping.svg)
+![Typescript](images/typescript_original_logo_icon_146317.png)
 
 </center>
 
@@ -48,9 +48,28 @@ TypeScript est un langage de programmation fortement typé qui s'appuie sur Java
 
 🔗 [Chapter 15 - React useContext + Typescript](TYPESCRIPT/LESSON15)
 
-🔗 Chapter 16 - React + Typescript Project - Part 1
+🔗 [Chapter 16 - React + Typescript Project - Part 1](TYPESCRIPT/LESSON16)
 
-🔗 Chapter 17 - React + Typescript Project - Part 2
+🔗 [Chapter 17 - React + Typescript Project - Part 2](TYPESCRIPT/LESSON17)
+
+# ⚙ Outils de développement Web gratuits
+
+[🔗Vite](https://vitejs.dev/)
+
+[🔗 Navigateur Web Google Chrome](https://tailwindcss.com/docs/guides/vite)
+
+[🔗 Visual Studio Code (alias VS Code)](https://www.google.com/chrome)
+
+[🔗 Extension de code VS serveur en direct](https://code.visualstudio.com/)
+
+
+## Projets 
+
+![Projets](images/project_image_1.jpeg)
+
+<br/>
+
+![Projets](images/projet_image_2.jpeg)
 
 
 ## Directory Hierarchy
